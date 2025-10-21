@@ -1,2 +1,3 @@
 # app-dev
 My first repository
+Tougen Anki tells the story of Shiki Ichinose, a seemingly ordinary high school student whose life takes a dark turn when he discovers that he’s not fully human — he’s part Oni, a member of a demon race that has long battled against humans known as Momotaros, descendants of the legendary folk hero Momotaro. After his adoptive father’s mysterious death and the shocking truth of his lineage is revealed, Shiki is pulled into a hidden world of supernatural conflict, ancient grudges, and secret organizations. He must learn to control his Oni blood, develop his powers, and navigate the dangerous line between human and demon as he seeks the truth about his past and his father’s fate.
